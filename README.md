@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Puchico from Japan.
 
 - 📫 How to reach me?
+  
   I don't think announcement self-introduction.
+
   You can not reach me.
 
 <!---
